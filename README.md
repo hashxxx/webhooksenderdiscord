@@ -2,12 +2,12 @@
 
 
 # How to install
-1- Need Nodejs in your computer
-2- Install the file
-3- Config de config.js
-4- Start de Executor
-5- Install the depencies
-6- Choise your mode
+    1- Need Nodejs in your computer
+    2- Install the file
+    3- Config de config.js
+    4- Start de Executor
+    5- Install the depencies
+    6- Choise your mode
 
 # Screenshot 
 ![screen1](https://user-images.githubusercontent.com/87992324/131553115-be2b6679-0532-4a01-83ab-895c3460bbfc.png)
@@ -16,6 +16,6 @@
 
 # Credits
 
-Author: H
-Discord: https://discord.gg/56qJcHxXCa
-Version: 1.0
+    Author: H
+    Discord: https://discord.gg/56qJcHxXCa
+    Version: 1.0
